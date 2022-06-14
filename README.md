@@ -8,5 +8,6 @@ Built with
 - ReactJS
 - TailwindCSS
 - NextJS
+  - ISR
 - Sanity
 - Typescript
