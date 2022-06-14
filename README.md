@@ -9,5 +9,5 @@ Built with
 - TailwindCSS
 - NextJS
   - ISR
-- Sanity
+- Sanity CMS
 - Typescript
